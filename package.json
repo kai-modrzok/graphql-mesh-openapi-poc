@@ -1,0 +1,16 @@
+{
+  "name": "graphql-mesh-openapi-poc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "atze",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.2.9",
+    "@graphql-mesh/runtime": "^0.2.9",
+    "graphql": "^15.1.0"
+  }
+}
